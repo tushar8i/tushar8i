@@ -1,7 +1,6 @@
-[![MasterHead](https://www.google.com/search?sca_esv=ed897b2776f2f88d&sxsrf=ACQVn0_W926aP9r0e3rSBo4svHr5jpwVyw:1707027285395&q=cyber+security&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj71d6XhJGEAxW3SGcHHT3ZBdIQ0pQJegQIDRAB&biw=1920&bih=945&dpr=1#imgrc=erO7JcR5YRNl_M)]
 <h1 align="center">Hi 👋, I'm Tushar Imran Hira</h1>
 <h3 align="center">Passionate about cyber security and ethical hacking.</h3>
-<img align='right' alt="Coding' width="400" src="https://www.google.com/search?sca_esv=ed897b2776f2f88d&sxsrf=ACQVn0_W926aP9r0e3rSBo4svHr5jpwVyw:1707027285395&q=cyber+security&tbm=isch&source=lnms&sa=X&ved=2ahUKEwj71d6XhJGEAxW3SGcHHT3ZBdIQ0pQJegQIDRAB&biw=1920&bih=945&dpr=1#imgrc=g4qHS_nBk-dv5M">
+
 - 📫 How to reach me **tusharhira972@gmail.com**
 
 - ⚡ Fun fact **I'm always happy because I'm always alone😎**
